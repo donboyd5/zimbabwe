@@ -3,7 +3,6 @@ title: "The Role of Legislatures in Public Financial Management"
 subtitle: "Committee Work and Oversight -- With New York Examples"
 author: Don Boyd
 institute: Rockefeller College Center for Policy Research
-date: today
 date: June 2, 2022
 date-format: long
 format:
@@ -15,33 +14,29 @@ format:
     css: styles.css
     footer: "Public Financial Management Training: Parliament of Zimbabwe"
 
-    # output-dir: _site
-# resources:
-#   - demo.pdf
-# https://quarto.org/docs/presentations/revealjs/
-# https://quarto.org/docs/reference/formats/presentations/revealjs.html
-# https://revealjs.com/layout/
 ---
 
 # Introduction
+
+## My Background
+
+<!-- ::: incremental -->
+
+-   *6 years:* analyst and director of tax analysis staff, NY Assembly Ways & Means Committee
+-   *7 years:* head economic/revenue analysis, NY budget office
+    -   forecasting & management
+    -   develop & negotiate proposals (within bounds)
+    -   present analysis to legislative staff, rating agencies
+    -   \~ 18 staff (6 economists, 12 tax analysts)
+-   *30 years:* analysis of state/local finances in 50 states
+
+<!-- ::: -->
 
 ## Your Background?
 
 -   What do you do?
 -   What analytic challenges do you face?
 -   What would you like to get out of this session?
-
-## My Background
-
-<!-- ::: incremental -->
-
--   \~ 6 years: analyst and director of tax analysis staff, NY Assembly Ways & Means Committee
--   \~ 7 years: head economic/revenue analysis, NY budget office
-    -   forecasting & management
-    -   develop & negotiate proposals (within bounds)
-    -   present analysis to legislative staff, rating agencies
-    -   \~ 18 staff (6 economists, 12 tax analysts)
--   \~ 30 years: analysis of state/local finances in 50 states <!-- ::: -->
 
 ## Discussion Topics
 
@@ -64,11 +59,9 @@ Speaker notes go here.
 
 # Morning session
 
-# Institutional players in the budget process
+# <span style="font-size:.85em;">*Institutional players in the budget process*
 
-------------------------------------------------------------------------
-
-Insert diagram
+</span>
 
 ## The executive proposes, the legislature disposes (?)
 
@@ -78,9 +71,15 @@ Insert diagram
 
     -   Alabama
 
+-   Different legislative roles in different arrangements
+
 -   New York - strong executive budget
 
     -   Stronger over time
+    
+## NY budget players and influencers
+
+![](images/Stylized%20budget%20players_no title.svg)
 
 ## Roles staffs play in such a system
 
@@ -96,7 +95,7 @@ Insert diagram
 
 -   reports on budget revenue trends, outlook, economic conditions, policy issues
 
-## Legislative-Executive Budget Relations in the United States
+## Legislative-Executive budget relations in the United States
 
 -   Many commonalities, but varies across states, and within states over time over time
 
@@ -123,3 +122,21 @@ Insert diagram
 # Afternoon session
 
 ## Topic C
+
+```{=html}
+<!-- Links
+https://lucid.app/documents#/dashboard
+
+https://quarto.org/docs/presentations/revealjs/
+https://quarto.org/docs/reference/formats/presentations/revealjs.html
+https://revealjs.com/layout/ 
+
+
+https://quarto.org/docs/presentations/revealjs/index.html#content-overflow
+## Slide Title {.smaller}
+## Slide Title {.scrollable}
+
+https://quarto.org/docs/presentations/index.html#incremental-lists
+
+-->
+```
